@@ -1,0 +1,8 @@
+{
+    "javascript.format.semicolons": "insert",
+    "javascript.preferences.quoteStyle": "double",
+    "typescript.format.semicolons": "insert",
+    "typescript.preferences.quoteStyle": "double",
+    "editor.tabSize": 2,
+    "files.trimTrailingWhitespace": true
+}
